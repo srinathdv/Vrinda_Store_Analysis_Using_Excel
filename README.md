@@ -1,6 +1,6 @@
 # Vrinda Store Analysis
 ## Objective: 
-Vrinda store wants to create an annual sales report for 2023. So that, Vrinda store can understand their customers and grow more sales in 2023.
+Vrinda store wants to create an annual sales report for 2022. So that, Vrinda store can understand their customers and grow more sales in 2023.
 
 ###	Data Cleaning
 o	Check for null or unrelated values across all the columns.
